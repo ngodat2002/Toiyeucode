@@ -1,0 +1,19 @@
+body{
+  border:2px solid red;
+  font-family: Arial;
+}
+
+h2{
+  font-size: 30px;
+  border: 2px solid red;
+  color: darkgoldenrod;
+padding: 10px;
+}
+p{
+  border: 2px solid red;
+  font-size: 20x;
+  color: darkgoldenrod;
+  padding: 10px;
+}
+
+
