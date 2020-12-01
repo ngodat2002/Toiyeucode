@@ -1,0 +1,71 @@
+body{
+  background-color: hsl(0,10%,90%);
+  font-family: Arial;
+}
+h1{
+  padding: 10px;
+  background-color: white;
+  color: gray;
+}
+p{
+  padding:5px;
+}
+#one{
+  background-color: rgba(19,137,222,0.99);
+  color: white;
+  margin: 0px;
+}
+#two{
+  color: white;
+background-color: rgba(23,149,227,0.99);
+  margin: 0px;
+}
+
+#three
+{
+  color: white;
+  margin: 0px;
+  background-color: rgba(6,161,230,0.99);
+}
+#four
+{
+  color: white;
+  margin: 0px;
+  background-color: rgba(48,170,233,0.99);
+}
+#five{
+  color: white;
+  margin: 0px;
+  background-color: rgba(113,193,241,0.99);
+}
+#six{
+  color: white;background-color: rgba(113,193,241,0.99) ; margin: 0px;
+}
+#seven{
+  color: white;
+  background-color: rgba(140,202,242,0.99); margin: 0px;
+}
+#eight{
+  color: white;
+  background-color: rgba(19,187,137,0.99); margin: 0px;
+}
+#nine{
+  color: white;
+  background-color: rgba(246,176,204,0.99); margin: 0px;
+}
+#ten{
+  color: white;
+  background-color: rgba(247,160,192,0.99); margin: 0px;
+}
+#elven{
+  color: white;
+  background-color: rgba(246,140,178,0.99); margin: 0px;
+}
+#on{
+  color: white;
+  background-color: rgba(245,122,166,0.99); margin: 0px;
+}
+#in{
+  color: white;
+  background-color: rgba(239,62,128,0.99); margin: 0px;
+}
